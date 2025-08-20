@@ -1,30 +1,32 @@
-# Hi, I'm Oybek Daniyarov (Khalikovich)
+# Hi, I'm Oybek Daniyarov
 
-I am a Senior Full-Stack Developer & Team Lead based in Dubai with 19+ years of professional experience.  
-I specialize in building **high-performance, headless applications** using modern frameworks like **Next.js, React, Laravel, and Sanity CMS**.
+With a career spanning over 19 years, I am a seasoned Senior Full-Stack Developer and Team Lead based in Dubai. My expertise lies in building high-performance, headless applications using modern frameworks like Next.js, React, Laravel, and Sanity CMS. This specialisation ensures that the solutions I deliver are not only cutting-edge but also optimised for performance and scalability.
 
 ## Notable Projects & Brands
+
 I have worked on web platforms and digital solutions for global enterprises and regional leaders, including:
 
-- **Emirates Airlines** – rebuilt web UI components to support A/B testing  
-- **Marhaba & Emirates Holidays** – contributed to customer-facing digital experiences  
-- **ENOC (Emirates National Oil Company)** – internal newsletter platform, Expo 2020 initiatives, WIE project  
-- **Emarat** – enterprise digital transformation projects in energy & retail  
-- **NIO MENA & Geely UAE** – automotive websites with vehicle configurators and headless CMS integration  
-- **Trivandi** – consultancy platform for mega-events and infrastructure  
-- **Seera Group** – regional travel technology projects
-- **SaaS Properties & Fedary** – real estate and luxury automotive ecosystems  
-- **Siella Beauty** – a headless Shopify platform with outstanding performance and Core Web Vitals scores  
+- **[Emirates Airlines](https://www.emirates.com/)** – Rebuilt web UI components to support A/B testing  
+- **[Marhaba](https://www.marhabaservices.com/) & [Emirates Holidays](https://www.emiratesholidays.com/)** – Contributed to customer-facing digital experiences  
+- **[ENOC (Emirates National Oil Company)](https://www.enoc.com/)** – Developed an internal newsletter platform and contributed to [Expo 2020 initiatives](https://houseofcomms.com/our-work/enoc-expo-2020/) and the [WIE project](https://houseofcomms.com/our-work/enoc-wie/)  
+- **[Emarat](https://www.emarat.ae/)** – Led enterprise digital transformation projects in the energy and retail sectors  
+- **[NIO MENA](https://www.nio.com/mena) & [Geely UAE](https://geely.ae/)** – Created automotive websites with vehicle configurators and headless CMS integration  
+- **[Trivandi](https://trivandi.ae/)** – Developed a consultancy platform for mega-events and infrastructure  
+- **[Seera Group](https://www.seera.com/)** – Worked on regional travel technology projects
+- **[SaaS Properties](https://saasproperties.com/) & [Fedary](https://fedary.ae/)** – Developed ecosystems for real estate and luxury automotive  
+- **[Siella Beauty](https://siellabeauty.com/)** – Implemented a headless Shopify platform with outstanding performance and optimal Core Web Vitals scores  
 
 ## Tech Stack
-- **Frontend:** Next.js, React, Vue, TypeScript, TailwindCSS  
-- **CMS & Commerce:** Sanity, Medusa, Shopify (Headless), WordPress (migration)  
-- **Backend:** Laravel, Filament, NestJS, Node.js  
-- **Data & APIs:** GraphQL, REST, Spatie Data, Headless integrations  
-- **Other:** AI workflows, automation, performance optimization  
+
+- **Frontend:** [Next.js](https://nextjs.org/), [React](https://react.dev/), [Vue](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/), [TailwindCSS](https://tailwindcss.com/)  
+- **CMS & Commerce:** [Sanity](https://www.sanity.io/), [Medusa](https://medusajs.com/), [Shopify (Headless)](https://www.shopify.com/), WordPress (migration)  
+- **Backend:** [Laravel](https://laravel.com/), [Filament](https://filamentphp.com/), [NestJS](https://nestjs.com/), [Node.js](https://nodejs.org/)  
+- **Data & APIs:** [GraphQL](https://graphql.org/), REST, [Spatie Data](https://spatie.be/docs/laravel-data), headless integrations  
+- **Other:** AI workflows, automation, and performance optimisation  
 
 ## What I Deliver
-- Scalable, **headless commerce** and content platforms  
-- Enterprise-level **CRM/DMS systems** for automotive and real estate  
-- High-performance frontends scoring **95+ on Core Web Vitals**  
-- Fast turnaround with reusable, maintainable codebases  
+
+- Scalable headless commerce and content platforms  
+- Enterprise-level CRM and DMS systems for automotive and real estate sectors  
+- High-performance frontends with scores of 95+ on Core Web Vitals  
+- Fast turnaround times with reusable, maintainable codebases  
