@@ -10,7 +10,7 @@ I have worked on web platforms and digital solutions for global enterprises and 
 - **[Marhaba](https://www.marhabaservices.com/) & [Emirates Holidays](https://www.emiratesholidays.com/)** – Contributed to customer-facing digital experiences  
 - **[ENOC (Emirates National Oil Company)](https://www.enoc.com/)** – Developed an internal newsletter platform and contributed to [Expo 2020 initiatives](https://houseofcomms.com/our-work/enoc-expo-2020/) and the [WIE project](https://houseofcomms.com/our-work/enoc-wie/)  
 - **[Emarat](https://www.emarat.ae/)** – Led enterprise digital transformation projects in the energy and retail sectors  
-- **[NIO MENA](https://www.nio.com/mena) & [Geely UAE](https://geely.ae/)** – Created automotive websites with vehicle configurators and headless CMS integration  
+- **[NIO MENA](https://nio.ae/en) & [Geely UAE](https://geely.ae/)** – Created automotive websites with vehicle configurators and headless CMS integration  
 - **[Trivandi](https://trivandi.ae/)** – Developed a consultancy platform for mega-events and infrastructure  
 - **[Seera Group](https://www.seera.com/)** – Worked on regional travel technology projects
 - **[SaaS Properties](https://saasproperties.com/) & [Fedary](https://fedary.ae/)** – Developed ecosystems for real estate and luxury automotive  
